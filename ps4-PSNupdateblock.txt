@@ -1,3 +1,5 @@
+####ps4 block list########
+######ver 1.1######
 dau01.ps4.update.playstation.net
 dbr01.ps4.update.playstation.net
 dcn01.ps4.update.playstation.net
@@ -54,4 +56,12 @@ ps4.updptl.sp-int.community.playstation.net
 sf.api.np.km.playstation.net
 themis.dl.playstation.net
 tmdb.np.dl.playstation.net
+psndl.net
 t-prof.np.community.playstation.net
+psn-rsc.prod.dl.playstation.net
+apollo.dl.playstation.net
+apollo2.dl.playstation.net
+fus01.ps4.update.playstation.net
+oqesn.np.dl.playstation.net
+nsx.sec.np.dl.playstation.net
+gs2.ww.prod.dl.playstation.net
